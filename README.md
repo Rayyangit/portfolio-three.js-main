@@ -13,6 +13,10 @@
 
   <h3 align="center">A 3D Portfolio</h3>
 
+   <div align="center">
+   
+    </div>
+</div>
 
 ## 📋 <a name="table">Table of Contents</a>
 
@@ -24,7 +28,6 @@
 6. 🔗 [Links](#links)
 
 
-<a href="https://youtu.be/kt0FrkQgw8w" target="_blank"><img src="https://github.com/sujatagunale/EasyRead/assets/151519281/1736fca5-a031-4854-8c09-bc110e3bc16d" /></a>
 
 ## <a name="introduction">🤖 Introduction</a>
 
@@ -853,6 +856,7 @@ Here is the list of all the resources used in the project video:
 - [ReadyPlayerMe](https://readyplayer.me/)
 - [Mixamo](https://www.mixamo.com/)
 - [FBX Animations ZIP](https://drive.google.com/file/d/1yQhrRvEQFEwxbjG2qelv_T-gAatXJ3N1/view?usp=sharing)
+
 
 
 
