@@ -11,10 +11,10 @@
     <img src="https://img.shields.io/badge/-Tailwind_CSS-black?style=for-the-badge&logoColor=white&logo=tailwindcss&color=06B6D4" alt="tailwindcss" />
   </div>
 
-  <h3 align="center">A 3D Portfolio</h3>
+  <h3 align="center">A 3D Dev Portfolio</h3>
 
    <div align="center">
-   
+     Build this project step by step with our detailed tutorial on <a href="https://www.youtube.com/@javascriptmastery/videos" target="_blank"><b>JavaScript Mastery</b></a> YouTube. Join the JSM family!!
     </div>
 </div>
 
@@ -28,11 +28,9 @@
 6. 🔗 [Links](#links)
 
 
-
 ## <a name="introduction">🤖 Introduction</a>
 
 Built with React.js for handling the user interface, Three.js for rendering 3D elements, and styled with TailwindCSS, the 3D Minimalistic portfolio is a website project. The primary goal is to demonstrate the developer's skills in a unique manner that creates a lasting impact.
-
 
 
 ## <a name="tech-stack">⚙️ Tech Stack</a>
@@ -861,3 +859,4 @@ Here is the list of all the resources used in the project video:
 
 
 
+#
