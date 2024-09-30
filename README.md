@@ -1,3 +1,5 @@
+
+URL : https://66fa8908199c79009901a031--classy-gumdrop-5263fc.netlify.app/
 <div align="center">
   <br />
     <a href="https://youtu.be/kt0FrkQgw8w" target="_blank">
@@ -13,9 +15,7 @@
 
   <h3 align="center">A 3D Dev Portfolio</h3>
 
-   <div align="center">
-     Build this project step by step with our detailed tutorial on <a href="https://www.youtube.com/@javascriptmastery/videos" target="_blank"><b>JavaScript Mastery</b></a> YouTube. Join the JSM family!!
-    </div>
+  
 </div>
 
 ## 📋 <a name="table">Table of Contents</a>
@@ -109,7 +109,7 @@ Replace the placeholder values with your actual EmailJS credentials. You can obt
 npm run dev
 ```
 
-Open [http://localhost:5173](http://localhost:5173) in your browser to view the project.
+Open [https://66fa8a5da6c7ca0c4974ac4e--regal-platypus-3a61be.netlify.app/] in your browser to view the project.
 
 ## <a name="snippets">🕸️ Snippets</a>
 
